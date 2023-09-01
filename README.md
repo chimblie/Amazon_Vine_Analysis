@@ -5,8 +5,8 @@
 2.	Results:  Using bulleted lists and images of DataFrames as support, address the following questions:
 •	How many Vine reviews and non-Vine reviews were there?
 There are 463 Vine reviews and 25094 non_Vine reviews
-image.png
- 
+![image](https://github.com/chimblie/Amazon_Vine_Analysis/assets/121005128/1f75777a-efa6-4242-9575-0aadb1269562)
+
 •	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There are 202 5 stars Vine reviews and 12033 non-Vine reviews 5 stars reviews.
 •	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
